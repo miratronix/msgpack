@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/vmihailenco/msgpack/codes"
+	"github.com/miratronix/msgpack/codes"
 )
 
 type bufReader interface {
